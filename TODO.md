@@ -1,10 +1,11 @@
 # ShoutOut TODO list
 
-- [ ] Create a basic model
+- [ ] Create a basic model class called ShoutOut
+- [ ] Make a global array of ShoutOuts
+- [ ] Save global array to disk
+- [ ] Show ShoutOuts in a list
+- [ ] Allow click on a ShoutOut in the list
+- [ ] Get click to navigate to a fullscreen ShoutOut view
+- [ ] Include a back button on this fullscreen view
+- [ ] Auto-Fit the font to the space available
 
-- [x] Save data to disk
-- [ ] 
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
