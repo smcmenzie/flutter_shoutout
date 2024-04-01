@@ -1,6 +1,10 @@
 # ShoutOut TODO list
 
 - [ ] Create a basic model class called ShoutOut
+    
+    Here's a code example
+
+    ``` dart 123 ```
 - [ ] Make a global array of ShoutOuts
 - [ ] Save global array to disk
 - [ ] Show ShoutOuts in a list
